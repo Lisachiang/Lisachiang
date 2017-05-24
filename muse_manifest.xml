@@ -1,0 +1,120 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="lisachianginsta.com" resolutions="1x" timestamp="1495594643431">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="d1.css" crc="418415256" ref="d1"/>
+    <file name="d2.css" crc="58371178" ref="d2"/>
+    <file name="index.css" crc="4145489974" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="facebook.eps" crc="4270819390" seo="true" mt="1493174667000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>untitled-2:phone>untitled-3:index:d1:d2"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>untitled-2:phone>untitled-3:index:d1:d2"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>untitled-2:phone>untitled-3:index:d1:d2"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:phone>untitled-2:phone>untitled-3:index:d1:d2"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>untitled-2:phone>untitled-3:index:d1:d2"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>untitled-2:phone>untitled-3:index:d1:d2"/>
+  </folder>
+  <folder name="images">
+    <file name="iio9-crop-u968.png" crc="371225671" ref="phone>index"/>
+    <file name="u1005-4.png" crc="304655940" ref="phone>index"/>
+    <file name="u1011-4.png" crc="4038976036" ref="phone>index"/>
+    <file name="u1017-4.png" crc="103719460" ref="phone>index"/>
+    <file name="u1023-4.png" crc="10681450" ref="phone>index"/>
+    <file name="u1026-4.png" crc="57378520" ref="phone>index"/>
+    <file name="facebook-logo.png" crc="4274837678" seo="true" ref="phone>index:index"/>
+    <file name="u1039-4.png" crc="4006605897" ref="phone>index"/>
+    <file name="u1048-4.png" crc="361721112" ref="phone>index"/>
+    <file name="u1051-5.png" crc="4154463263" ref="phone>index"/>
+    <file name="photo-camera.png" crc="3897408046" seo="true" ref="phone>untitled-2:d1"/>
+    <file name="u918-4.png" crc="12616668" ref="phone>untitled-2"/>
+    <file name="daer.png" crc="39800335" seo="true" ref="phone>untitled-2:d1"/>
+    <file name="zxaxa-crop-u787.png" crc="331234809" ref="phone>untitled-2"/>
+    <file name="u903-4.png" crc="4007275362" ref="phone>untitled-2"/>
+    <file name="u906-4.png" crc="282085059" ref="phone>untitled-2"/>
+    <file name="u909-4.png" crc="217433422" ref="phone>untitled-2"/>
+    <file name="reegey-crop-u757.png" crc="263636967" ref="phone>untitled-2"/>
+    <file name="u912-4.png" crc="3784746993" ref="phone>untitled-2"/>
+    <file name="u915-4.png" crc="446910539" ref="phone>untitled-2"/>
+    <file name="18254175_1218074368305112_1881568751_n-crop-u847.jpg" crc="4182398993" ref="phone>untitled-2"/>
+    <file name="18254557_1218163061629576_1812389393_n-crop-u955.jpg" crc="305643852" ref="phone>untitled-2"/>
+    <file name="u965-4.png" crc="452127015" ref="phone>untitled-2"/>
+    <file name="csdfwf-crop-u863.png" crc="4216293759" ref="phone>untitled-2"/>
+    <file name="sdwere-crop-u873.png" crc="369607398" ref="phone>untitled-2"/>
+    <file name="yop-p9-crop-u893.png" crc="430553072" ref="phone>untitled-2"/>
+    <file name="sdgg-crop-u720.png" crc="180304649" ref="phone>untitled-2"/>
+    <file name="axasf-crop-u722.png" crc="4258931323" ref="phone>untitled-2"/>
+    <file name="eyu-crop-u724.png" crc="511135077" ref="phone>untitled-2"/>
+    <file name="jkhkd-crop-u728.png" crc="4066887697" ref="phone>untitled-2"/>
+    <file name="hhi-crop-u726.png" crc="249702865" ref="phone>untitled-2"/>
+    <file name="u369-4.png" crc="340098074" ref="phone>untitled-3"/>
+    <file name="add-user-crop-u537.png" crc="4046896213" ref="phone>untitled-3"/>
+    <file name="fb_img_1480966841564.png" crc="4098621083" seo="true" ref="phone>untitled-3"/>
+    <file name="u471-5.png" crc="421313535" ref="phone>untitled-3"/>
+    <file name="u474-4.png" crc="4210331799" ref="phone>untitled-3"/>
+    <file name="u477-4.png" crc="3941327832" ref="phone>untitled-3"/>
+    <file name="u480-4.png" crc="110066116" ref="phone>untitled-3"/>
+    <file name="u486-4.png" crc="3892268667" ref="phone>untitled-3"/>
+    <file name="u489-4.png" crc="4031571171" ref="phone>untitled-3"/>
+    <file name="nnjhh.png" crc="285318732" seo="true" ref="phone>untitled-3"/>
+    <file name="u504-4.png" crc="4189362453" ref="phone>untitled-3"/>
+    <file name="u507-4.png" crc="420012533" ref="phone>untitled-3"/>
+    <file name="u510-4.png" crc="3862239857" ref="phone>untitled-3"/>
+    <file name="menu.png" crc="4204351841" seo="true" ref="phone>untitled-3"/>
+    <file name="menu (2).png" crc="3903467466" seo="true" ref="phone>untitled-3"/>
+    <file name="dsasd-crop-u582.png" crc="4030974542" ref="phone>untitled-3"/>
+    <file name="fyuyi.png" crc="4264492001" seo="true" ref="phone>untitled-3"/>
+    <file name="2016-06-07 114457 1-crop-u273.jpg" crc="529864636" ref="phone>untitled-3"/>
+    <file name="2016-06-13 075632 1-crop-u326.jpg" crc="428107083" ref="phone>untitled-3"/>
+    <file name="2016-06-06 044742 1-crop-u302.jpg" crc="4274698831" ref="phone>untitled-3"/>
+    <file name="2016-06-06 052356 1-crop-u314.jpg" crc="4281325468" ref="phone>untitled-3"/>
+    <file name="2016-05-26 035218 1-crop-u283.jpg" crc="155905749" ref="phone>untitled-3"/>
+    <file name="2016-12-24 101143 1-crop-u346.jpg" crc="319111829" ref="phone>untitled-3"/>
+    <file name="sdgg-crop-u614.png" crc="180304649" ref="phone>untitled-3"/>
+    <file name="axasf-crop-u624.png" crc="4258931323" ref="phone>untitled-3"/>
+    <file name="eyu-crop-u634.png" crc="511135077" ref="phone>untitled-3"/>
+    <file name="jkhkd-crop-u674.png" crc="4066887697" ref="phone>untitled-3"/>
+    <file name="hhi-crop-u664.png" crc="249702865" ref="phone>untitled-3"/>
+    <file name="iio9-crop-u1054.png" crc="60083438" ref="index"/>
+    <file name="u1057-4.png" crc="304655940" ref="index"/>
+    <file name="u1059-4.png" crc="4038976036" ref="index"/>
+    <file name="u1061-4.png" crc="103719460" ref="index"/>
+    <file name="u1063-4.png" crc="10681450" ref="index"/>
+    <file name="u1064-4.png" crc="57378520" ref="index"/>
+    <file name="u1067-4.png" crc="4006605897" ref="index"/>
+    <file name="u1070-4.png" crc="361721112" ref="index"/>
+    <file name="u1169-4.png" crc="12616668" ref="d1"/>
+    <file name="zxaxa-crop-u1150.png" crc="331234809" ref="d1"/>
+    <file name="u1164-4.png" crc="4007275362" ref="d1"/>
+    <file name="u1165-4.png" crc="282085059" ref="d1"/>
+    <file name="u1166-4.png" crc="217433422" ref="d1"/>
+    <file name="reegey-crop-u1148.png" crc="263636967" ref="d1"/>
+    <file name="u1167-4.png" crc="3784746993" ref="d1"/>
+    <file name="u1168-4.png" crc="446910539" ref="d1"/>
+    <file name="18254175_1218074368305112_1881568751_n-crop-u1155.jpg" crc="4182398993" ref="d1"/>
+    <file name="18254557_1218163061629576_1812389393_n-crop-u1175.jpg" crc="305643852" ref="d1"/>
+    <file name="u1177-4.png" crc="452127015" ref="d1"/>
+    <file name="csdfwf-crop-u1158.png" crc="4216293759" ref="d1"/>
+    <file name="sdwere-crop-u1160.png" crc="369607398" ref="d1"/>
+    <file name="yop-p9-crop-u1162.png" crc="430553072" ref="d1"/>
+    <file name="sdgg-crop-u1138.png" crc="180304649" ref="d1"/>
+    <file name="axasf-crop-u1140.png" crc="4258931323" ref="d1"/>
+    <file name="eyu-crop-u1142.png" crc="511135077" ref="d1"/>
+    <file name="jkhkd-crop-u1146.png" crc="4066887697" ref="d1"/>
+    <file name="hhi-crop-u1144.png" crc="249702865" ref="d1"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="untitled-2.css" crc="525601879" ref="phone>untitled-2"/>
+      <file name="untitled-3.css" crc="4006821324" ref="phone>untitled-3"/>
+      <file name="index.css" crc="476704398" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="184700712" seo="true" mt="1493781363261" redirect="true"/>
+    <file name="untitled-2.html" crc="3856292408" seo="true" mt="1495594534326" redirect="true"/>
+    <file name="untitled-3.html" crc="3842352654" seo="true" mt="1495594538240" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="164729487" seo="true" mt="1495594521140" redirect="true"/>
+  <file name="d1.html" crc="190273645" seo="true" mt="1495594579149" redirect="true"/>
+  <file name="d2.html" crc="413999344" seo="true" mt="1495594538241" redirect="false"/>
+</manifest>
